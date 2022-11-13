@@ -23,7 +23,7 @@ int Sum_odd(int[] arr)
     {
         if (i % 2 == 1)
         {
-            result += array[i];
+            result += arr[i];
         }
     }
     return result;
